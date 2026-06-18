@@ -1,66 +1,75 @@
 const siteData = {
   research: [
     {
-      title: "Human-Centered AI",
+      title: "Ice Nucleation and Anti-Icing Interfaces",
       description:
-        "Designing and evaluating interactive AI systems that support expert decision-making, creativity, and learning."
+        "Designing low-adhesion and dynamic anti-icing surfaces, including plasma-treated 2D MoS2 and quasi-liquid-layer modulation for tunable ice adhesion."
     },
     {
-      title: "Trustworthy Machine Learning",
+      title: "Surface Engineering and Functional Coatings",
       description:
-        "Studying robustness, interpretability, uncertainty, and responsible deployment for models used outside controlled benchmarks."
+        "Developing silica-based antireflective, self-cleaning, and contamination-sensing coatings through sol-gel chemistry, nanoscale porosity control, and wettability tuning."
     },
     {
-      title: "Computational Social Science",
+      title: "2D Materials, Ceramics, and Advanced Microscopy",
       description:
-        "Using data-driven methods to understand complex social behavior, institutions, and information environments."
+        "Synthesizing Cr-based MXenes and MAX-phase ceramics, linking microstructure to performance through Cs-TEM, Cs-STEM, SEM, AFM, and electrochemical testing."
     }
   ],
   publications: [
     {
-      title: "A Clear and Specific Paper Title Goes Here",
-      authors: "Xinshu Zou, Collaborator A, Collaborator B",
-      venue: "Conference or Journal Name, 2026",
-      type: "Preprint",
+      title: "Hypothesis: A Sustainable Dynamic Anti-Icing Surface with the Potential for Rapid Rechargeability",
+      authors: "Xinshu Zou et al.",
+      venue: "Journal of Colloid and Interface Science, 680, 2024",
+      type: "First Author",
       links: [
-        { label: "PDF", url: "#" },
-        { label: "Code", url: "#" },
-        { label: "BibTeX", url: "#" }
+        { label: "Journal", url: "#" }
       ]
     },
     {
-      title: "Another Representative Publication Title",
-      authors: "Collaborator A, Xinshu Zou, Collaborator C",
-      venue: "Workshop or Symposium Name, 2025",
-      type: "Workshop",
+      title: "Designing Multifunctional Silica Coatings for Enhanced Broadband Antireflection and Microfiber Contamination Sensing",
+      authors: "Xinshu Zou et al.",
+      venue: "Chemical Engineering Journal, 473, 2023",
+      type: "First Author",
       links: [
-        { label: "PDF", url: "#" },
-        { label: "Project", url: "#" }
+        { label: "Journal", url: "#" }
       ]
     },
     {
-      title: "A Project-Oriented Research Article",
-      authors: "Xinshu Zou and Collaborators",
-      venue: "Journal Name, 2024",
-      type: "Journal",
+      title: "A Simple Approach to Synthesis Cr2CTx MXene for Efficient Hydrogen Evolution Reaction",
+      authors: "Xinshu Zou et al.",
+      venue: "Materials Today Energy, 2021",
+      type: "First Author",
       links: [
-        { label: "DOI", url: "#" },
-        { label: "Supplement", url: "#" }
+        { label: "Journal", url: "#" }
+      ]
+    },
+    {
+      title: "Rational Design and Fabrication of Highly Transparent, Flexible, and Thermally Stable Superhydrophobic Coatings",
+      authors: "Xinshu Zou et al.",
+      venue: "Applied Surface Science, 440, 2018",
+      type: "First Author",
+      links: [
+        { label: "Journal", url: "#" }
       ]
     }
   ],
   news: [
     {
-      date: "2026-06-18",
-      text: "Launched this academic homepage."
+      date: "2025-09-03",
+      text: "Defended Ph.D. in Structural Engineering at the Norwegian University of Science and Technology."
     },
     {
-      date: "2026-05-20",
-      text: "Presented recent work at a research seminar or workshop."
+      date: "2025-05-01",
+      text: "Served as guest editor for a Coatings special issue on anti-icing coatings for aviation and renewable energy."
     },
     {
-      date: "2026-04-10",
-      text: "Submitted a new paper on your current research topic."
+      date: "2024-04-01",
+      text: "Reported ultra-long freezing delay on plasma-treated MoS2 surfaces, motivating ongoing work on suppressing heterogeneous ice nucleation."
+    },
+    {
+      date: "2023-11-01",
+      text: "Presented a poster at the Norwegian Nano Symposium 2023 at NTNU Nano, Trondheim."
     }
   ]
 };

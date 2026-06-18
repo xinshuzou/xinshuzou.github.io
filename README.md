@@ -4,10 +4,10 @@ This is a clean static academic homepage. It has no build step and can be hosted
 
 ## Quick Start
 
-1. Rename the text in `index.html` from placeholder information to your real profile.
-2. Update research themes, publications, and news in `site-data.js`.
+1. Edit `index.html` for profile text, contact links, and affiliation details.
+2. Edit `site-data.js` for research themes, publications, and news.
 3. Replace `assets/profile-placeholder.svg` with a professional photo, keeping the filename or updating the `img` path in `index.html`.
-4. Add your CV PDF and point the CV button to that file.
+4. Add a public CV PDF only after removing private details such as phone number and home address.
 5. Push the folder contents to a GitHub repository.
 
 ## GitHub Pages Deployment
